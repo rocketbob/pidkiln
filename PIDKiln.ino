@@ -23,6 +23,7 @@
 ** All variables beeing global are written with capital leter on start of each word (or at least they should be). All definitions are all capital letters.
 **
 */
+
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <FS.h>   // Include the SPIFFS library
